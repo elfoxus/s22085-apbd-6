@@ -7,15 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7747872-dff6-4e33-98ba-e249c99d46cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apbd-6-s22085x.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apbd-6-s22085x/LinqTasks.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apbd-6-s22085x/Models/Dept.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apbd-6-s22085x/Models/Emp.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apbd-6-s22085x/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apbd-6-s22085x/apbd-6-s22085x.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="d7747872-dff6-4e33-98ba-e249c99d46cb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +22,11 @@
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apbd-6-s22085x/LinqTasks.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apbd-6-s22085x/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6bf398fb52994de09debe1ba2919f9957b918/e0/08d1d5dc/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -90,15 +85,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704813480132</updated>
-      <workItem from="1704813481352" duration="4124000" />
+      <workItem from="1704813481352" duration="4275000" />
     </task>
+    <task id="LOCAL-00001" summary="rozwiazanie zad 6">
+      <option name="closed" value="true" />
+      <created>1704866742242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704866742242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="rozwiazanie zad 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="rozwiazanie zad 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
